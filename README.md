@@ -4,6 +4,6 @@ Hi everyone, this project demonstrates the deployment of a Python API web applic
 
 The project is divided into two repositories:
 
-Infrastructure Repository ([click here to visit]([url](https://github.com/PartySlayer/tf-jenkins-rest/))): Contains the Terraform configuration files for setting up the AWS infrastructure.
+Infrastructure Repository ([click here to visit]([https://github.com/PartySlayer/flask-api-jenkins/])): Contains the Terraform configuration files for setting up the AWS infrastructure.
 Webapp Repository (you are currently here): Contains the Python API development and Jenkinsfile for CI/CD pipeline configuration.
 
